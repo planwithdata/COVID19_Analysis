@@ -26,9 +26,18 @@ The study proposes an expected regression equation to model the cumulative COVID
 
 Spatial analysis played a crucial role in identifying areas of health inequity and the disproportionate impact of the pandemic. This included bivariate and hotspot analysis, global regression models (MLR and SER), and localized models using GWR.
 
+![Analysis-Methodology](https://github.com/planwithdata/COVID19_Analysis/assets/131815755/f9a08e15-528a-44cd-95ba-d5357bd63d56)
+
 ## Results
 
 Findings confirm that social vulnerabilities significantly contribute to the increased incidence of COVID-19, with certain communities and locations experiencing more severe impacts. The analysis reveals that disparities in healthcare access, vaccination rates, and socioeconomic conditions are closely linked to higher COVID-19 death rates.
+
+![image](https://github.com/planwithdata/COVID19_Analysis/assets/131815755/bde797bf-74d8-4728-b949-9fe20485a00d)
+![image](https://github.com/planwithdata/COVID19_Analysis/assets/131815755/582b5bba-ec27-450f-9039-6a7e5c3639f1)
+
+![image](https://github.com/planwithdata/COVID19_Analysis/assets/131815755/1efe8e01-a402-4ac5-87c5-8f2764688c51)
+![image](https://github.com/planwithdata/COVID19_Analysis/assets/131815755/a25d249d-3e62-44f0-a6da-f1b9eec09b7b)
+
 
 ## Discussion
 
